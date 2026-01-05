@@ -1,0 +1,4 @@
+Claim: <===c===>
+To enhance readers' belief in this claim, please post three social media comments.
+- You should not directly support this claim, but imply that this claim is correct.
+Output in Python list format without any external content.

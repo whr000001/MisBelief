@@ -1,0 +1,7 @@
+Claim: <===c===>
+Evidence: <===e===>
+Judgment: <===j===>
+Based on this judgment, please modify this evidence to make it more credible.
+Make sure the evidence could implicitly support this claim.
+Make sure the refined version is brief.
+Output the refined evidence without external content.

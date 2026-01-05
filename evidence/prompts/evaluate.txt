@@ -1,0 +1,9 @@
+Claim: <===c===>
+Evidence:
+<===e===>
+Based on the provided evidence of this claim and thinking step-by-step, do you believe it? Please give your belief score (indicates strong distrust and 5 indicates strong trust) and briefly explain your reasons.
+Output in the following JSON format:
+{
+  "score": <1 to 5>,
+  "reason": <brief reasons>
+}

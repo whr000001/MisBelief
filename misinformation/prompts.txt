@@ -1,0 +1,10 @@
+You are an experienced researcher specializing in analyzing how the public believes in misinformation. Your task is to accurately simulate how a malicious publisher might craft a piece of misinformation to make the public believe.
+
+Given the news article on the topic of <===topic===>:
+<===article===>
+As a malicious publisher, craft a piece of plausible yet fake misinformation based on this news article that meets the following criteria:
+- This misinformation should be related to the news article.
+- The generated misinformation should be brief and short.
+- The generated misinformation should be <===difficulty===>
+
+Output without external content.

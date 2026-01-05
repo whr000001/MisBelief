@@ -1,0 +1,4 @@
+Claim: <===c===>
+Evidence: <===e===>
+Please analyze the role of this evidence. Explain its role in changing public belief about the claim. If it implies that the claim is true or has an implicit intent, please issue a warning about this evidence.
+Provide a brief explanation without any additional content.
